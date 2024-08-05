@@ -38,4 +38,4 @@ I plan to:
 Clone this repository to explore the projects:
 
 ```bash
-git clone https://github.com/Wyatt/AI-Coding-Journey.git
+git clone https://github.com/Wyatt-JohnHenry-Long/AI-Coding-Journey.git
