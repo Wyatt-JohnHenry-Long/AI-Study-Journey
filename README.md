@@ -8,7 +8,7 @@ I'll be sharing projects focused on building a solid foundation in programming a
 
 ## Contents
 
-- `project1/`: A simple Webpage writen in HTML, CSS, and JavaScript
+- `HTML/CSS/JS /`: https://jsfiddle.net/user/WLong/fiddles/
 - `project2/`:
 - `docs/`: 
 
